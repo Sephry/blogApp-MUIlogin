@@ -69,7 +69,7 @@ function Auth() {
             name="email"
             value={inputs.email}
             margin="normal"
-            type={"email"}
+            type="email"
             variant="outlined"
             placeholder="Email"
           />
